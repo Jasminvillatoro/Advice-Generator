@@ -42,14 +42,18 @@ h1 {
 p {
   text-align: center;
   font-family: 'Manrope', sans-serif;
-  font-size: 28px;
+  font-size: 24px;
   color: var(--light-cyan);
   margin-top: 16px;
 }
 
-.player-img {
+.player-img1 {
   position: absolute;
   top: 330px;
+}
+
+.player-img2 {
+  opacity: 0;
 }
 
 .button {
@@ -60,4 +64,31 @@ p {
   border-radius: 50%;
   position: absolute;
   top: 360px;
+  cursor: pointer;
+}
+
+.button:hover {
+  box-shadow: 0px 0px 40px #53ffaa;
+}
+
+@media (min-width: 600px) {
+  main {
+    height: 364px;
+    width: 540px;
+  }
+  h1 {
+    font-size: 13px;
+    margin-top: 48px;
+  }
+  p {
+    font-size: 28px;
+  }
+  .player-img1 {
+    display: none;
+  }
+  .player-img2 {
+    opacity: 100;
+    position: absolute;
+    top: 300px;
+  }
 }
