@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Jasminvillatoro/Advice-Generator]
-- Live Site URL: [(https://jasminvillatoro.github.io/Advice-Generator/)](https://your-live-site-url.com)
+- Live Site URL: [https://jasminvillatoro.github.io/Advice-Generator/]
 
 ## My process
 
