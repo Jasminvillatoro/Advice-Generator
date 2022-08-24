@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jasminvillatoro/Advice-Generator]
-- Live Site URL: [https://jasminvillatoro.github.io/Advice-Generator/]
+- Solution URL:[GitHub/Code] (https://github.com/Jasminvillatoro/Advice-Generator)
+- Live Site URL: [Live](https://jasminvillatoro.github.io/Advice-Generator/)
 
 ## My process
 
@@ -67,6 +67,6 @@ const getAdvice = () => {
 Learned about working with APIs
 ```
 
-- Website - [https://www.jasminvillatoroportfolio.com/](https://www.your-site.com)
+- Website - [Portfolio](https://www.jasminvillatoroportfolio.com/)
 
 - Twitter - [Jas_codes](https://www.twitter.com/Jas_codes)
