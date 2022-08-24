@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[GitHub/Code] (https://github.com/Jasminvillatoro/Advice-Generator)
+- Solution URL:[GitHub/Code](https://github.com/Jasminvillatoro/Advice-Generator)
 - Live Site URL: [Live](https://jasminvillatoro.github.io/Advice-Generator/)
 
 ## My process
